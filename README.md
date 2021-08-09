@@ -28,5 +28,5 @@ The first step was to clean the data and remove any duplicate mice.
 
 * Correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. 
 
-![Regression](Images/regression.png
+![Regression](Images/regression.png)
 
