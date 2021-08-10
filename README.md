@@ -14,7 +14,7 @@ The first step was to clean the data and remove any duplicate mice.
 
  * Distribution of female or male mice in the study.
 
-![Pie Chart](Images/pie.png)
+![Pie Chart](Images/pie.PNG)
 
 * Final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. I calculated the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 
@@ -24,7 +24,7 @@ The first step was to clean the data and remove any duplicate mice.
 
 * Line plot of tumor volume vs. time point for that mouse for mouse s185.
 
-![Mouse](Images/line_chart.png) 
+![Mouse](Images/line_chart.PNG) 
 
 * Correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. 
 
